@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://seroor.vercel.app/sitemap.xml
